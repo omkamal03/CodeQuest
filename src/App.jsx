@@ -5,7 +5,14 @@ function App() {
 
   return (
     <>
-      <h1>Om kamal</h1>
+      <select name="" id="">
+         <option value="">Hackathon</option>
+         <option value="">C programming</option>
+         <option value="">Compitive Programming</option>
+         <option value="">Auto Cad</option>
+         <option value="">Blind coding</option>
+      </select>
+
     </>
   )
 }
