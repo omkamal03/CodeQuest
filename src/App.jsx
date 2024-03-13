@@ -63,7 +63,7 @@ function App() {
                 {/* Add more options for other fields if needed */}
             </select>
             <div>
-                <h2>Selected Students:</h2>
+                <h2>Selected S:</h2>
                 <ul>
                     {selectedStudents.map(student => (
                         <li key={student.regNo}>{student.name}</li>
